@@ -4,7 +4,7 @@ Me chamo **Sérgio Santos**, sou estudante de **Sistemas de Informação** e apa
 
 Meu caminho na programação começou em 2015, quando ingressei no curso técnico de informática, após minha formação no curso técnico, ingressei no curso de sistemas de informação onde consegui ampliar ainda mais meus horizontes a cerca da área da tecnologia. Na faculdade, tive a oportunidade de desenvolver web sites, aplicativos mobiles, API's, modelagem de banco de dados, e também pude aprender várias outras skills que um profissional de TI precisa ter. 
 
-Em meu tempo livre, tenho me dedicadoos ao estudos em JS, NodeJS e PHP, com a intenção de me capacitar para pode contribuir ainda mais na instituição a qual eu faço parte.
+Em meu tempo livre, tenho me dedicado aos estudos em JS, NodeJS e PHP, com a intenção de me capacitar para pode contribuir ainda mais na instituição a qual eu faço parte.
 
 <hr style="border: 1px solid pink"> </hr>
 
