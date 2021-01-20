@@ -50,4 +50,3 @@ Tecnico em Informática
 ### :pushpin: Interesses
 - Desenvolvedor Back-end
 - Analista de Sistemas
-- Analista de Suporte
