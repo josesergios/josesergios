@@ -10,9 +10,7 @@ Em meu tempo livre, tenho me dedicado aos estudos em JS, NodeJS e PHP, com a int
 
 ### :zap: Stack
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&link=https://www.ecma-international.org/)](https://www.ecma-international.org/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=TypeScript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&link=https://TheOnlyRealDevLanguage.org)](https://TheOnlyRealDevLanguage.org)
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&link=https://reactjs.org/)](https://reactjs.org/)
 [![AWS](https://img.shields.io/badge/-AWS-61DAFB?logo=AWS&logoColor=orange&link=https://aws.amazon.com/pt/)](https://aws.amazon.com/pt/)
 
 <hr style="border: 1px solid pink"> </hr>
