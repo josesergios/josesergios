@@ -17,7 +17,6 @@ Em meu tempo livre, tenho me dedicado aos estudos em JS, NodeJS e PHP, com a int
 ### :wrench: Ferramentas
 [![Git](https://img.shields.io/badge/-Git-f1361f?logo=Git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white&Color=white&link=https://www.postman.com/)](https://www.postman.com/)
-[![PhpStorm](https://img.shields.io/badge/-PhpStorm-blueviolet&link=https://www.jetbrains.com/pt-br/phpstorm/)](https://www.jetbrains.com/pt-br/phpstorm/)
 [![VsCode](https://img.shields.io/badge/-VSCode-397ef8?logo=visual-studio-code&Color=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
 
 <hr style="border: 1px solid pink"> </hr>
