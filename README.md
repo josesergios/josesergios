@@ -11,16 +11,14 @@ Em meu tempo livre, tenho me dedicado aos estudos em JS, NodeJS e PHP, com a int
 ### :zap: Stack
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&link=https://www.ecma-international.org/)](https://www.ecma-international.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&link=https://TheOnlyRealDevLanguage.org)](https://TheOnlyRealDevLanguage.org)
-[![AWS](https://img.shields.io/badge/-AWS-61DAFB?logo=AWS&logoColor=orange&link=https://aws.amazon.com/pt/)](https://aws.amazon.com/pt/)
 
 <hr style="border: 1px solid pink"> </hr>
 
 ### :wrench: Ferramentas
 [![Git](https://img.shields.io/badge/-Git-f1361f?logo=Git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white&Color=white&link=https://www.postman.com/)](https://www.postman.com/)
-[![Yarn](https://img.shields.io/badge/-Yarn-141631?logo=yarn&Color=white&link=https://yarnpkg.com/)](https://yarnpkg.com/)
+[![PhpStorm](https://img.shields.io/badge/-PhpStorm-blueviolet&link=https://www.jetbrains.com/pt-br/phpstorm/)](https://www.jetbrains.com/pt-br/phpstorm/)
 [![VsCode](https://img.shields.io/badge/-VSCode-397ef8?logo=visual-studio-code&Color=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
-[![Standard JS](https://img.shields.io/badge/-Standard-000?logo=JavaScript&Color=white&link=https://standardjs.com/)](https://standardjs.com/)
 
 <hr style="border: 1px solid pink"> </hr>
 
@@ -38,7 +36,7 @@ Em meu tempo livre, tenho me dedicado aos estudos em JS, NodeJS e PHP, com a int
 
 ### :mortar_board: Formação
 #### Faculdade de Tecnologia e Ciências *UNIFTC*
-_Sistemas de Informação | Mar. de 2018 a Dez. de 2021_   
+_Sistemas de Informação | Mar. de 2018 a  2023_   
 Bacharel em Sistemas de Informação
 
 <hr style="border: 1px solid pink"> </hr>
@@ -46,5 +44,5 @@ Bacharel em Sistemas de Informação
 Tecnico em Informática
 
 ### :pushpin: Interesses
-- Desenvolvedor Back-end
+- Desenvolvedor Back-end júnior
 - Analista de Sistemas
