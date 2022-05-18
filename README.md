@@ -24,7 +24,6 @@ Em meu tempo livre, tenho me dedicado aos estudos em JS, NodeJS e PHP, com a int
 ### :mag: Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-santos10/)](https://www.linkedin.com/in/sergio-santos10/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?logo=Instagram&logoColor=white&link=https://www.instagram.com/vsergio1/)](https://www.instagram.com/vsergio1/)
 [![Email](https://img.shields.io/badge/-Email-de4343?logo=Gmail&logoColor=white&link=mailto:josesergio.s@hotmail.com)](mailto:josesergio.s@hotmail.com)
 ![GitHub](https://img.shields.io/github/followers/josesergios?label=Seguir&style=social&logo=github)
 
