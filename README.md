@@ -1,10 +1,10 @@
 <h2>Bem-Vind@</h2>
 
-Me chamo **Sérgio Santos**, sou estudante de **Sistemas de Informação** apaixonado por tecnologias e desenvolvimento.
+Meu nome é Sérgio Santos, bacharel em Sistemas de Informação, e sou completamente apaixonado por tecnologia.
 
-Meu caminho na programação começou em 2015, quando ingressei no curso técnico em informática, após minha formação no curso técnico, ingressei no curso de sistemas de informação onde tive a oportunidade de ampliar ainda mais meus horizontes a cerca da área da tecnologia. Na faculdade, tive a oportunidade de desenvolver web sites, aplicativos mobiles, API's, modelagem de banco de dados, e também pude aprender várias outras skills importantes para um profissional de TI. 
+Minha aventura na programação começou lá em 2015, quando entrei no curso técnico em informática. Depois de concluir, dei um salto para o curso de Sistemas de Informação, onde pude expandir meus horizontes na área de tecnologia. Na faculdade, coloquei a mão na massa desenvolvendo websites, aplicativos mobiles, API's, mexendo com bancos de dados e absorvendo muitas outras habilidades essenciais para um profissional de TI.
 
-Em meu tempo livre, tenho me dedicado aos estudos em JS, NodeJS e PHP, com a intenção de me capacitar para poder contribuir ainda mais na instituição a qual eu faço parte.
+No meu tempo livre, tenho me dedicado a estudar JS. A ideia é ficar ainda mais afiado. Estou empolgado com a chance de aplicar esses conhecimentos em desafios reais e colaborar para o crescimento do time.
 
 <hr style="border: 1px solid pink"> </hr>
 
