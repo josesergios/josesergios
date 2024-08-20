@@ -42,5 +42,5 @@ Bacharel em Sistemas de Informação
 Tecnico em Informática
 
 ### :pushpin: Interesses
-- Desenvolvedor Back-end júnior
+- Desenvolvedor Back-end
 - Analista de Sistemas
