@@ -20,20 +20,20 @@ Atuo no desenvolvimento de soluções conversacionais, automação de atendiment
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)](https://code.visualstudio.com/)
 
-* **Ecossistema Conversacional:** Plataforma Blip · Builder · Webhooks · Integração de Sistemas
+* **Ecossistema Conversacional:** Plataforma Blip · Builder · Webhooks · WhatsApp Flows · Integração de Sistemas
 * **Processos & Produtividade:** Scrum · Kanban · Troubleshooting · Desenvolvimento Assistido por IA (Claude Code)
 
 ---
 
 ### 🚀 Projeto em Destaque
-* **[BotSync](https://botsync.app.br/)** — Aplicação web independente (SaaS) desenvolvida em **Node.js** para desenvolvedores da plataforma Blip versionarem, sincronizarem e gerenciarem recursos e fluxos de chatbots com segurança e agilidade.
+* **[BotSync](https://botsync.app.br/):** Aplicação web independente (SaaS) desenvolvida em **Node.js** para desenvolvedores da plataforma Blip versionarem, sincronizarem e gerenciarem recursos e fluxos de chatbots com segurança e agilidade.
 
 ---
 
 ### 🎓 Formação & Certificações
-* **Bacharelado em Sistemas de Informação** — Faculdade de Tecnologia e Ciências (*UNIFTC / Unex*) *(2018 – 2023)*
+* **Bacharelado em Sistemas de Informação** | Faculdade de Tecnologia e Ciências (*UNIFTC / Unex*) *(2018 - 2023)*
 * **Técnico em Informática** *(Concluído)*
-* **Conversação em Inglês** — *Cambly Certificate*
+* **Conversação em Inglês** | *Cambly Certificate*
 
 ---
 
