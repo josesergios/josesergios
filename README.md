@@ -1,46 +1,46 @@
-<h2>Bem-Vind@</h2>
+## Olá, eu sou o Sérgio Santos 👋
 
-Meu nome é Sérgio Santos, bacharel em Sistemas de Informação, e sou completamente apaixonado por tecnologia.
+Bacharel em Sistemas de Informação, Desenvolvedor Back-end e Especialista em Chatbots, com experiência sólida em **Node.js**, **APIs REST**, **integração de sistemas** e **automação de atendimento digital**[cite: 1].
 
-Minha aventura na programação começou lá em 2015, quando entrei no curso técnico em informática. Depois de concluir, dei um salto para o curso de Sistemas de Informação, onde pude expandir meus horizontes na área de tecnologia. Na faculdade, coloquei a mão na massa desenvolvendo websites, aplicativos mobiles, API's, mexendo com bancos de dados e absorvendo muitas outras habilidades essenciais para um profissional de TI.
+Ao longo da minha trajetória, tenho desenvolvido soluções conversacionais na plataforma **Blip** e arquiteturas back-end focadas em estabilidade, performance e *troubleshooting*[cite: 1]. Também possuo experiência pontual com **PHP** e **Laravel**, além de utilizar ferramentas de observabilidade e testes para garantir a qualidade das entregas em produção[cite: 1].
 
-No meu tempo livre, tenho me dedicado a estudar JS. A ideia é ficar ainda mais afiado. Estou empolgado com a chance de aplicar esses conhecimentos em desafios reais e colaborar para o crescimento do time.
+---
 
-<hr style="border: 1px solid pink"> </hr>
+### ⚡ Stack & Tecnologias
+[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)](#)
 
-### :zap: Stack
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&link=https://www.ecma-international.org/)](https://www.ecma-international.org/)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&link=https://TheOnlyRealDevLanguage.org)](https://TheOnlyRealDevLanguage.org)
+---
 
-<hr style="border: 1px solid pink"> </hr>
+### 🛠️ Ferramentas, Monitorização & Metodologias
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
+[![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white)](https://newrelic.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-### :wrench: Ferramentas
-[![Git](https://img.shields.io/badge/-Git-f1361f?logo=Git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
-[![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white&Color=white&link=https://www.postman.com/)](https://www.postman.com/)
-[![VsCode](https://img.shields.io/badge/-VSCode-397ef8?logo=visual-studio-code&Color=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
+* **Arquitetura & Agilidade:** Arquitetura MVC · Scrum · Kanban · Troubleshooting[cite: 1]
+* **Ecossistema Conversacional:** Plataforma Blip · Webhooks · Integração de Sistemas[cite: 1]
 
-<hr style="border: 1px solid pink"> </hr>
+---
 
-### :mag: Onde me encontrar
+### 🚀 Projeto em Destaque
+* **[BLIP_LOGS](https://github.com/josesergios/BLIP_LOGS)** — API desenvolvida em **Node.js** e **Express** para registo, organização em JSON e *debugging* de eventos e fluxos construídos no Builder da Blip[cite: 1].
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-santos10/)](https://www.linkedin.com/in/sergio-santos10/)
-[![Email](https://img.shields.io/badge/-Email-de4343?logo=Gmail&logoColor=white&link=mailto:josesergio.s@hotmail.com)](mailto:josesergio.s@hotmail.com)
-![GitHub](https://img.shields.io/github/followers/josesergios?label=Seguir&style=social&logo=github)
+---
 
-<!-- 
-### Projetos
-<hr style="border: 1px solid pink"> </hr>
--->
+### 🎓 Formação & Certificações
+* **Bacharelado em Sistemas de Informação** — Faculdade de Tecnologia e Ciências (*UNIFTC / Unex*) *(2018 – 2023)*[cite: 1]
+* **Técnico em Informática** *(Concluído)*[cite: 1]
+* **Conversação em Inglês** — *Cambly Certificate*[cite: 1]
 
-### :mortar_board: Formação
-#### Faculdade de Tecnologia e Ciências *UNIFTC*
-_Sistemas de Informação | Mar. de 2018 a  2023_   
-Bacharel em Sistemas de Informação
+---
 
-<hr style="border: 1px solid pink"> </hr>
-### Cursos
-Tecnico em Informática
-
-### :pushpin: Interesses
-- Desenvolvedor Back-end
-- Analista de Sistemas
+### 📌 Áreas de Interesse
+* Desenvolvedor Back-end
