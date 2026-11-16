@@ -21,12 +21,12 @@ Atuo no desenvolvimento de soluções conversacionais, automação de atendiment
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)](https://code.visualstudio.com/)
 
 * **Ecossistema Conversacional:** Plataforma Blip · Builder · Webhooks · Integração de Sistemas
-* **Processos & Entrega:** Scrum · Kanban · Troubleshooting de APIs
+* **Processos & Produtividade:** Scrum · Kanban · Troubleshooting · Desenvolvimento Assistido por IA (Claude Code)
 
 ---
 
 ### 🚀 Projeto em Destaque
-* **[BLIP_LOGS](https://github.com/josesergios/BLIP_LOGS)** — API desenvolvida em **Node.js** para registro, organização em JSON e *debugging* de eventos e fluxos construídos no Builder da Blip.
+* **[BotSync](https://botsync.app.br/)** — Aplicação web independente (SaaS) desenvolvida em **Node.js** para desenvolvedores da plataforma Blip versionarem, sincronizarem e gerenciarem recursos e fluxos de chatbots com segurança e agilidade.
 
 ---
 
