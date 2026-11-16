@@ -26,7 +26,7 @@ Atuo no desenvolvimento de soluções conversacionais, automação de atendiment
 ---
 
 ### 🚀 Projeto em Destaque
-* **[BotSync](https://botsync.app.br/):** Aplicação web independente (SaaS) desenvolvida em **Node.js** para desenvolvedores da plataforma Blip versionarem, sincronizarem e gerenciarem recursos e fluxos de chatbots com segurança e agilidade.
+* **[BotSync](https://botsync.app.br/)** | Aplicação web independente (SaaS) desenvolvida em **Node.js** para desenvolvedores da plataforma Blip versionarem, sincronizarem e gerenciarem recursos e fluxos de chatbots com segurança e agilidade.
 
 ---
 
